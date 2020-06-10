@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ddWOarKv4+EaBmy4Nm35C1onAdWCLlTVoCf+1/tV1dfLIHD4Ngj/+ia6aRF4Qc+JrEW+YlOCIcxjwQRASO14CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Blake\\Dropbox\\Projects\\ProjectTracker\\GithubActivityTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Blake\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Blake\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Blake\\.nuget\\packages\\unity\\5.11.7\\unity.5.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

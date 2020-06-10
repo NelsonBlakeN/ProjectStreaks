@@ -1,0 +1,6 @@
+Controllers should be for things to display:
+* Commit streak (commits and PRs)
+* Issue count
+* Todo count
+* Overall productivity
+* Vacation
