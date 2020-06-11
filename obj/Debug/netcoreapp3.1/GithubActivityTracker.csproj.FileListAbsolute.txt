@@ -41,8 +41,20 @@ C:\Users\Blake\Dropbox\Projects\GithubActivityTracker\bin\Debug\netcoreapp3.1\Un
 C:\Users\Blake\Dropbox\Projects\GithubActivityTracker\bin\Debug\netcoreapp3.1\Unity.Container.dll
 C:\Users\Blake\Dropbox\Projects\GithubActivityTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.csproj.CoreCompileInputs.cache
 C:\Users\Blake\Dropbox\Projects\GithubActivityTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.csprojAssemblyReference.cache
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.AssemblyInfoInputs.cache
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.AssemblyInfo.cs
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.csproj.CoreCompileInputs.cache
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.dll
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.pdb
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\client\build\asset-manifest.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\client\build\manifest.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\client\package-lock.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\client\package.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\client\public\manifest.json
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\Properties\launchSettings (BlakesPC's conflicted copy 2020-05-21).json
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\GithubActivityTracker.exe
@@ -54,15 +66,8 @@ C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\GithubAct
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\Unity.Abstractions.dll
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Debug\netcoreapp3.1\Unity.Container.dll
-C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.csprojAssemblyReference.cache
-C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.AssemblyInfoInputs.cache
-C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.AssemblyInfo.cs
-C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.csproj.CoreCompileInputs.cache
-C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.RazorTargetAssemblyInfo.cache
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.csproj.CopyComplete
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\staticwebassets\GithubActivityTracker.StaticWebAssets.Manifest.cache
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\staticwebassets\GithubActivityTracker.StaticWebAssets.xml
-C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.dll
-C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.pdb
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Debug\netcoreapp3.1\GithubActivityTracker.genruntimeconfig.cache

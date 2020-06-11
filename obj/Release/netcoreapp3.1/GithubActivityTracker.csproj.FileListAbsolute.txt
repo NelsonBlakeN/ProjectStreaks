@@ -48,3 +48,8 @@ C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Release\netcoreapp3.1\staticw
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Release\netcoreapp3.1\GithubActivityTracker.dll
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Release\netcoreapp3.1\GithubActivityTracker.pdb
 C:\Users\Blake\Dropbox\Projects\ProjectTracker\obj\Release\netcoreapp3.1\GithubActivityTracker.genruntimeconfig.cache
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Release\netcoreapp3.1\client\build\manifest.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Release\netcoreapp3.1\client\package.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Release\netcoreapp3.1\client\public\manifest.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Release\netcoreapp3.1\client\build\asset-manifest.json
+C:\Users\Blake\Dropbox\Projects\ProjectTracker\bin\Release\netcoreapp3.1\client\package-lock.json
