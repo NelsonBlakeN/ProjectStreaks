@@ -10,7 +10,7 @@ namespace GithubActivityTracker.BusinessFlow
     public class EventFlow
     {
         private EventData EventData;
-        public EventFlow() 
+        public EventFlow()
         {
             this.EventData = new EventData();
         }

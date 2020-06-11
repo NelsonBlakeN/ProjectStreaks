@@ -30,6 +30,7 @@
             {
                 // 1 - Get commit events for current page number
                 var eventsPage = (await this.EventFlow.GetPushEventsAsync(currentPage)).ToList();
+                eventsPage = eventsPage.GroupBy(e => e.CreatedAt.DayOfYear).Select(f => f.FirstOrDefault()).ToList();
 
                 // 2 - While the streak is still going at the end of the page, get the next page
                 // and merge with previous results
@@ -38,7 +39,7 @@
                 {
                     endStreak = true;
                 }
-                else if (currentPage == 1 && eventsPage[0].CreatedAt.DayOfYear != yesterday.DayOfYear)
+                else if (currentPage == 1 && eventsPage[0].CreatedAt.DayOfYear < yesterday.DayOfYear)
                 {
                     endStreak = true;
                 }
@@ -46,7 +47,7 @@
                 {
                     events.Add(eventsPage[0]);
                     int b;
-                    for (b = 1; b < eventsPage.Count && (eventsPage[b-1].CreatedAt - eventsPage[b].CreatedAt).TotalDays == 1; b++)
+                    for (b = 1; b < eventsPage.Count && (eventsPage[b-1].CreatedAt - eventsPage[b].CreatedAt).TotalDays <= 1; b++)
                     {
                         events.Add(eventsPage[b]);
                     }

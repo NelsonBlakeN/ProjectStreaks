@@ -9,10 +9,10 @@ namespace GithubActivityTracker.Models
     public class Event
     {
         [JsonProperty("type")]
-        public string Type;
+        public string Type { get; set; }
 
         [JsonProperty("created_at")]
-        public DateTime CreatedAt;
+        public DateTime CreatedAt { get; set; }
 
         public Event() { }
     }

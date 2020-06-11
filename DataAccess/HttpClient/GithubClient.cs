@@ -63,7 +63,14 @@ namespace GithubActivityTracker.DataAccess.HttpClient
         {
             var url = "users/NelsonBlakeN/events?page=" + page.ToString();
             var events = await this.GetAsync<List<Event>>(url);
-            
+
+            TimeZoneInfo cstZone = TimeZoneInfo.FindSystemTimeZoneById("Central Standard Time");
+            foreach (var ev in events)
+            {
+                var cstTime = TimeZoneInfo.ConvertTimeFromUtc(ev.CreatedAt, cstZone);
+                ev.CreatedAt = cstTime;
+            }
+
             return events;
         }
 
