@@ -7,7 +7,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('https://productivity-tracker-api.azurewebsites.net/api/CommitStreak')
+    fetch('https://productivity-tracker-api-2.azurewebsites.net/api/CommitStreak')
     .then(res => res.json())
     .then((data) => {
       this.setState({ streak: data })
