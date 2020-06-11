@@ -3,7 +3,7 @@ import './App.css';
 
 class App extends Component {
   state = {
-    streak: 0
+    streak: null
   }
 
   componentDidMount() {
